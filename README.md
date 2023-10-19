@@ -53,6 +53,9 @@ Execute the programs and publish them.
 ## OUTPUT
 ![Alt text](image.png)
 
+<br>
+
+![Alt text](image-1.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.

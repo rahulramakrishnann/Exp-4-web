@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
 
-Date : 
+Date : 17-10-2023
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -205,32 +205,19 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![Alt text](image-2.png)
+![image](https://github.com/knight7080/NearMe/assets/88542035/bbc8e717-44de-474d-a34b-51b8b6f52d70)
+![image](https://github.com/knight7080/NearMe/assets/88542035/be6cd0e3-4918-4e58-8d34-88499cf7b18d)
+![image](https://github.com/knight7080/NearMe/assets/88542035/b4b3a2a8-f45f-4891-82ca-63f10d786857)
+![image](https://github.com/knight7080/NearMe/assets/88542035/35164b7a-5b12-40a3-b909-c2463c4ec0e3)
+![image](https://github.com/knight7080/NearMe/assets/88542035/5b8f0258-c732-4749-af9c-22420666f571)
+![image](https://github.com/knight7080/NearMe/assets/88542035/c84e35c0-989e-4b33-8163-bb9c359429c8)
+![image](https://github.com/knight7080/NearMe/assets/88542035/1be99215-e281-4de7-aa71-8be026d08d85)
 
 
-<br>
 
-![Alt text](image-3.png)
 
-<br>
 
-![Alt text](image-4.png)
 
-<br>
-
-![Alt text](image-5.png)
-
-<br>
-
-![Alt text](image-6.png)
-
-<br>
-
-![Alt text](image-7.png)
-
-<br>
-
-![Alt text](image-8.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.

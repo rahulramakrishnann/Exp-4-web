@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
 
-Date : 17-10-2023
+Date : 15-10-2023
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -36,14 +36,14 @@ Execute the programs and publish them.
     <title>Map</title>
 </head>
 <body>
-    <img src="map.png" usemap="#image-map">
+    <img src="Map.png" usemap="#image-map">
 
     <map name="image-map">
-        <area target="_blank" alt="Guindy National Park" title="Guindy National Park" href="park.html" coords="874,649,1028,721" shape="rect">
-        <area target="_blank" alt="Edward Elliot's Beach" title="Edward Elliot's Beach" href="beach.html" coords="1642,713,1918,779" shape="rect">
-        <area target="_blank" alt="Phoenix Mall" title="Phoenix Mall" href="mall.html" coords="548,879,764,945" shape="rect">
-        <area target="_blank" alt="Indian Institute of Technology" title="Indian Institute of Technology" href="IIT.html" coords="903,852,1099,918" shape="rect">
-        <area target="_blank" alt="ITC grand chola" title="ITC grand chola" href="itc.html" coords="755,490,904,580" shape="rect">
+        <area target="_blank" alt="Panagal Park" title="Panagal Park" href="park.html" coords="601,182,686,268" shape="rect">
+        <area target="_blank" alt="YMCA Ground" title="YMCA Ground" href="ground.html" coords="957,889,1024,968" shape="rect">
+        <area target="_blank" alt="Hyatt Regency" title="Hyatt Regency" href="hyatt.html" coords="1293,113,1479,157" shape="rect">
+        <area target="_blank" alt="T Nagar" title="T Nagar" href="tnagar.html" coords="489,556,650,619" shape="rect">
+        <area target="_blank" alt="Teynampet" title="Teynampet" href="pet.html" coords="1222,418,1332,463" shape="rect">
     </map>
 </body>
 </html>
@@ -55,7 +55,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Edward Elliot's Beach</title>
+    <title>T Nagar</title>
     <style>
         h1{
             text-align: center;
@@ -71,11 +71,10 @@ Execute the programs and publish them.
     </style>
 </head>
 <body>
-    <h1>Edward Elliot's Beach</h1>
+    <h1>T Nagar</h1>
     <br>
     <hr color="Brown">
-    <p>Edward Elliot's Beach, simply called as Elliot's Beach and popularly known as Besant Nagar Beach or the Bessie, is a natural urban beach located in the Besant Nagar neighbourhood of Chennai, Tamil Nadu, India. It is located next to the southern tip of the Marina Beach,[1] and was named after Edward Elliot, a chief magistrate and superintendent of police of the Madras Presidency in colonial India.[2] It has the Shrine of Our Lady of Good Health—also known as Annai Vailankanni Church—on its shore, and the Ashtalakshmi Temple nearby.</p>
-
+    <p>Thyagaraya Nagar, commonly known as T. Nagar, and historically known as East Mambalam,[1] is a very affluent commercial and residential neighbourhood in Chennai, Tamil Nadu, India. It is surrounded by Nungambakkam in the North, Teynampet in the East, Nandanam in the South-East, C.I.T. Nagar (a part of Greater Nandanam region) in the South and West Mambalam and Kodambakkam in the West. The stretch between Duraiswamy Road and T. Nagar Bus Stand has some of the costliest real estates in Chennai. It was constructed between 1923 and 1925 by the Madras Presidency government of the Raja of Panagal as a part of town planning activities initiated according to the Madras Town Planning Act of 1920. The town was named after P. Thyagaraya Chetty. The streets, parks and localities in the new neighbourhood were named after important officials in the provincial government.</p>
 </body>
 </html>
 ```
@@ -86,7 +85,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phoenix Marketcity</title>
+    <title>Panagal Park</title>
     <style>
         h1{
             text-align: center;
@@ -102,11 +101,10 @@ Execute the programs and publish them.
     </style>
 </head>
 <body>
-    <h1>Phoenix Marketcity</h1>
+    <h1>Panagal Park</h1>
     <br>
     <hr color="Brown">
-    <p>Phoenix Marketcity is a shopping mall developed by Phoenix Mills Limited located in Chennai, Tamil Nadu, India. It was opened in January 2013[1] and is the 2nd largest mall in the city. It was the fourth largest mall in India in 2018. It has a built up area of 1,000,000 square feet. Also there is a Palladium mall situated right next to it.</p>
-
+    <p>When the Long Lake on the western peripheral region of the old city was drained out and the area of T. Nagar was newly carved out of the existing neighborhood of Mambalam in 1923, a park was developed in the centre of the new locality intended to be a residential one. The park was named Panagal Park honouring the then Chief Minister of Madras, the Raja of Panagal.</p>
 </body>
 </html>
 ```
@@ -117,7 +115,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ITC Grand Chola Hotel</title>
+    <title>Hyatt Regency</title>
     <style>
         h1{
             text-align: center;
@@ -133,11 +131,12 @@ Execute the programs and publish them.
     </style>
 </head>
 <body>
-    <h1>ITC Grand Chola Hotel</h1>
+    <h1>Hyatt Regency</h1>
     <br>
     <hr color="Brown">
-    <p>The ITC Grand Chola is a 5-star luxury hotel in Chennai, India.[4] It is located in Guindy, opposite SPIC building and along the same row of buildings as Ashok Leyland Towers. The building, designed by Singapore-based SRSS Architects, is of mixed-use development with three separate wings and is themed after traditional Dravidian architecture of the Chola dynasty.[5] The hotel is the ninth hotel in The Luxury Collection brand</p>
+    <p>Hyatt Hotels Corporation, commonly known as Hyatt Hotels & Resorts, is an American multinational hospitality company headquartered in the Riverside Plaza area of Chicago that manages and franchises luxury and business hotels, resorts, and vacation properties. Hyatt Hotels & Resorts is one of the businesses managed by the Pritzker family.
 
+        The Hyatt Corporation came into being upon purchase of the Hyatt House, at Los Angeles International Airport, on September 27, 1957. In 1969, Hyatt began expanding internationally.</p>
 </body>
 </html>
 ```
@@ -148,7 +147,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guindy National Park</title>
+    <title>YMCA Ground</title>
     <style>
         h1{
             text-align: center;
@@ -164,11 +163,10 @@ Execute the programs and publish them.
     </style>
 </head>
 <body>
-    <h1>Guindy National Park</h1>
+    <h1>YMCA Ground</h1>
     <br>
     <hr color="Brown">
-    <p>Guindy National Park is a 2.70 km2 (1.04 sq mi) protected area of Tamil Nadu, located in Chennai, India, is the 8th-smallest National Park of India and one of the very few national parks situated inside a city. The park is an extension of the grounds surrounding Raj Bhavan, formerly known as the 'Guindy Lodge', the official residence of the governor of Tamil Nadu, India. It extends deep inside the governor's estate, enclosing beautiful forests, scrub lands, lakes and streams.</p>
-
+    <p>The YMCA Madras was started in 1920 and it started its academic operation from the year 1931, as a first Physical Education college of South Asia with two academic programmes, 'Certificate in Physical Education' and 'Diploma in Physical Education' affiliated to the University of Madras.</p>
 </body>
 </html>
 ```
@@ -179,7 +177,7 @@ Execute the programs and publish them.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Indian Institutes of Technology</title>
+    <title>Teynampet</title>
     <style>
         h1{
             text-align: center;
@@ -195,29 +193,22 @@ Execute the programs and publish them.
     </style>
 </head>
 <body>
-    <h1>Indian Institutes of Technology</h1>
+    <h1>Teynampet</h1>
     <br>
     <hr color="Brown">
-    <p>he Indian Institute of Technology (IITs) are Centrally Funded Technical Institutes located across India. They are under the ownership of the Ministry of Education of the Government of India and are governed by the Institutes of Technology Act, 1961. The Act declares them as Institutes of National Importance and lays down their powers, duties, and framework for governance as the country's premier institutions in the field of technology.</p>
-
+    <p>Teynampet, also Teynampettai, is one of the busiest commercial localities in the city of Chennai, Tamil Nadu, India.[1] Part of the city's central business district, it is surrounded by Gopalapuram in the north, Mylapore in the east, Alwarpet in the south, Nandanam in the south-west and T.Nagar in the west.[2] The Teynampet Signal is one of the most important road junctions in Chennai and witnesses some of the worst traffic during peak hours in the city.[3] Teynampet is home to some of the most expensive real estate and properties in Chennai.[1] The Teynampet section of Anna Salai hosts some of the most important Government offices and luxury hotels in the city.</p>
 </body>
 </html>
 ```
 
 ## OUTPUT
-![image](https://github.com/knight7080/NearMe/assets/88542035/bbc8e717-44de-474d-a34b-51b8b6f52d70)
-![image](https://github.com/knight7080/NearMe/assets/88542035/be6cd0e3-4918-4e58-8d34-88499cf7b18d)
-![image](https://github.com/knight7080/NearMe/assets/88542035/b4b3a2a8-f45f-4891-82ca-63f10d786857)
-![image](https://github.com/knight7080/NearMe/assets/88542035/35164b7a-5b12-40a3-b909-c2463c4ec0e3)
-![image](https://github.com/knight7080/NearMe/assets/88542035/5b8f0258-c732-4749-af9c-22420666f571)
-![image](https://github.com/knight7080/NearMe/assets/88542035/c84e35c0-989e-4b33-8163-bb9c359429c8)
-![image](https://github.com/knight7080/NearMe/assets/88542035/1be99215-e281-4de7-aa71-8be026d08d85)
-
-
-
-
-
-
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+![Alt text](image-6.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.

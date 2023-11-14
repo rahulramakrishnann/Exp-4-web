@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
 
-Date : 15-10-2023
+## Date : 15-10-2023
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -202,13 +202,16 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
-![Alt text](image-4.png)
-![Alt text](image-5.png)
-![Alt text](image-6.png)
+
+![image](https://github.com/rahulramakrishnann/Exp-4-web/assets/143045415/5a26901e-61db-485a-92e3-06aa163cd160)
+![image](https://github.com/rahulramakrishnann/Exp-4-web/assets/143045415/5c6f5cf0-7934-437c-82c1-9e606bcba4a3)
+![image](https://github.com/rahulramakrishnann/Exp-4-web/assets/143045415/eef7a168-b981-4e50-bfd8-58f25624ea6b)
+![image](https://github.com/rahulramakrishnann/Exp-4-web/assets/143045415/3fbd2660-6e48-46ef-8c9d-a3c44e15bb6a)
+![image](https://github.com/rahulramakrishnann/Exp-4-web/assets/143045415/50672aa3-d550-4255-bc90-c6f7e1664785)
+![image](https://github.com/rahulramakrishnann/Exp-4-web/assets/143045415/937bdf81-7daf-43d5-8fee-d9b085624a8b)
+![image](https://github.com/rahulramakrishnann/Exp-4-web/assets/143045415/f5a71eac-37ab-49a8-96ee-f63640a2c297)
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
